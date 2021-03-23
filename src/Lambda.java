@@ -2,7 +2,7 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class Lambda {
-    private int size = 10;
+    private final int size = 10;
 
     public static void main(final String[] argc) {
         final int i = 0;
